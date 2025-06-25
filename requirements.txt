@@ -1,0 +1,10 @@
+openai
+crewai
+pandas
+matplotlib
+plotly
+duckdb
+python-dotenv
+typer
+tabulate
+reportlab   # For PDF export (optional)

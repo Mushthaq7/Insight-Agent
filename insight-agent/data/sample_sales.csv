@@ -1,0 +1,7 @@
+Date,Region,Sales,Product,Channel
+2024-01-01,North,5000,A,Online
+2024-01-02,South,3000,B,Offline
+2024-01-03,North,7000,A,Online
+2024-01-04,East,2000,C,Offline
+2024-01-05,West,10000,A,Online
+2024-01-06,South,6000,B,Online
